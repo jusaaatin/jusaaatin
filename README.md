@@ -12,7 +12,7 @@
 - I have a coding team named [Nytrium](https://github.com/Nytrium)!
 
 
-### Find Me 
+### Find Me!
 
 - [Youtube](https://youtube.com/citrax)
 - [Instagram](http://bit.ly/citraxinsta)
