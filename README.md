@@ -1,8 +1,7 @@
-<img width="125" height="125" align="left" src="https://github.com/jusnite/jusnite/blob/master/Default%20Profile.png?raw=true"> 
+<img width="100" height="100" align="left" src="https://github.com/jusnite/jusnite/blob/master/Default%20Profile.png?raw=true"> 
 
 # ✨ Guten Hi ✨, My Name is Justin! 
 
-## Welcome to my Github Page :D
 
 
 ### Who am I?
