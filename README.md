@@ -1,11 +1,9 @@
 ## Hi 👋 I'm Justin!
 
-### im sleeping right now
-
 I'm a 16 year old Belgian student living in Singapore :)
 
-- Currently studying for IBs in Nov 2025
-- Learning how to code in SwiftUI
-- Passionate in UIUX and Software Design
+Currently working on:
+- jus: portfolio website (vue, typescript)
+- locket: the little corner for the people and events that matter in your life (swift, swiftui, ios/macos)
 
-Reach out at @jusaaatin on Instagram!
+Reach out at @jusaaatin on Instagram or jusaaatin@gmail.com :)
