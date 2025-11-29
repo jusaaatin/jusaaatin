@@ -1,8 +1,9 @@
 ## Hi 👋 I'm Justin!
 
-I'm a 17 year old Belgian student living in Singapore :)
+I'm an 18 year old Belgian student living in Singapore :)
 
 Currently working on:
+- oplight: a offline and online remote control that integrates with openHAB
 - pythons: a collection of python projects I am making to learn the language (python)
 - jus: portfolio website (vue, typescript)
 
